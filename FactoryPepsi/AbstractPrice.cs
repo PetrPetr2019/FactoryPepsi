@@ -4,7 +4,8 @@ using System.Text;
 
 namespace FactoryPepsi
 {
-    internal abstract class Price
+    //абстрактный класс  price
+    internal abstract class AbstractPrice
     {
         public abstract void PricePepsi();
     }
