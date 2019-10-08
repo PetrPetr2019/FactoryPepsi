@@ -6,6 +6,6 @@ namespace FactoryPepsi
 {
     internal abstract class Price
     {
-
+        public abstract void PricePepsi();
     }
 }
